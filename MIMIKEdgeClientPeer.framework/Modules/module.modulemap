@@ -1,0 +1,4 @@
+framework module MIMIKEdgeClientPeer {
+  header "MIMIKEdgeClientPeer-Swift.h"
+  requires objc
+}
